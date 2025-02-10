@@ -1,0 +1,25 @@
+/*Archivo: Portada.css*/
+@font-face 
+{
+ font-family:"Aldrich";
+ src: url(Aldrich/Aldrich-Regular.ttf)
+ format('truetype');
+}
+@font-face 
+{
+ font-family:"Aldrich";
+ src: url(Aldrich/Aldrich-Regular.ttf)
+ format('truetype');
+}
+#p1
+{
+    font-size: 70px;
+    color:white;
+    margin-bottom: 4;
+}
+#p2
+{
+    font-family: "Aldrich";
+    font-size: 20px;
+    color:red;
+}
